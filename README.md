@@ -5,7 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align="right" height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 # 💫 About Me:
-🔭 I’m currently working on backend centric logic building.<br>👯 I’m looking to collaborate on real time solutions for the masses.<br>🤝 I’m looking for help with problem analytics and dynamic debugging.<br>🌱 I’m currently learning development and architectural essentials.<br>💬 Ask me about web based applications and their architecture.<br>⚡ I plan to actively take part in writing overviews and technical blogs. 
+🔭 I’m currently working on backend centric logic building.<br>👯 I’m looking to collaborate on real time solutions for the masses.<br>🤝 I’m looking for help with problem analytics and dynamic debugging.<br>🌱 I’m currently learning development and architectural essentials.<br>💬 Ask me about web based applications and their architecture.<br>⚡ I plan to actively take part in writing overviews and technical blogs.</br>
+📧Contact me at developer.aarushkashyap@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarushkashyap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AarushKashyap12) 
@@ -20,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AarushKashyap&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
