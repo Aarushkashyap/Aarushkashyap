@@ -1,3 +1,8 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+## My name is Aarush Kashyap
+<img align="right" height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
+
 # 💫 About Me:
 🔭 I’m currently working on backend centric logic building.<br>👯 I’m looking to collaborate on real time solutions for the masses.<br>🤝 I’m looking for help with problem analytics and dynamic debugging.<br>🌱 I’m currently learning development and architectural essentials.<br>💬 Ask me about web based applications and their architecture.<br>⚡ I plan to actively take part in writing overviews and technical blogs. 
 
