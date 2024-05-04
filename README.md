@@ -1,6 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## My name is Aarush Kashyap
+## I am Aarush Kashyap
 [![](https://visitcount.itsvg.in/api?id=AarushKashyap&icon=5&color=3)](https://visitcount.itsvg.in)
 <img align="right" height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 
