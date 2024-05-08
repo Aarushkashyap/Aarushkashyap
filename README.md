@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&size=50&pause=1000&center=true&vCenter=true&random=false&width=535&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste);I+am+Aarush+Kashyap!"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&vCenter=true&random=false&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste);I+am+Aarush+Kashyap!"/></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=AarushKashyap&icon=5&color=3)](https://visitcount.itsvg.in)
